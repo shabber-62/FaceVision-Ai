@@ -1,20 +1,51 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# FaceVision AI
 
-# Run and deploy your AI Studio app
+AI-Powered Face Recognition Attendance System
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/8b29ac07-0c53-4776-9a79-f13c06d26998
+- Face Recognition using InsightFace
+- Attendance Management
+- Student Registration
+- User Role Management
+- Dashboard & Analytics
+- FastAPI Backend
+- React + TypeScript Frontend
+- PostgreSQL Database
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- FastAPI
+- Python
+- PostgreSQL
+- SQLAlchemy
+- InsightFace
+- OpenCV
 
+## Installation
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Frontend
+
+```bash
+npm install
+npm run dev
+```
+
+### Backend
+
+```bash
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+```
+
+## Project Structure
+
+- Frontend (React + TypeScript)
+- Backend (FastAPI)
+- PostgreSQL Database
+
+## Author
+
+Shabber
