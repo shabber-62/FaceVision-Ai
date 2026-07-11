@@ -1,0 +1,10 @@
+{
+  "name": "FaceVision AI",
+  "description": "An enterprise-grade AI-powered Face Recognition Attendance and Analytics system with live video detection, multi-angle registration, and responsive analytics dashboards.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
