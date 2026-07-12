@@ -48,4 +48,39 @@ uvicorn app.main:app --reload
 
 ## Author
 
-Shabber
+Shabber Ahamad
+
+
+
+
+# 📸 Screenshots
+
+## 🖥️ Face Recognition Interface
+![Face Recognition Interface](screenshots/interface.png)
+
+## 🔐 Admin Login
+![Admin Login](screenshots/admin_login.png)
+
+## 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+## 🛠️ Admin Panel
+![Admin Panel](screenshots/admin_panel.png)
+
+## 👨‍🎓 Student Registration
+![Student Registration](screenshots/student_registration.png)
+
+## 👤 User Details
+![User Details](screenshots/user_details.png)
+
+## 🏫 Classrooms & Departments
+![Classrooms & Departments](screenshots/classrooms_and_department.png)
+
+## 📅 Class Attendance
+![Class Attendance](screenshots/class_attendance.png)
+
+## 📈 Attendance History
+![Attendance History](screenshots/attendance_history.png)
+
+## 🗓️ Time Table
+![Time Table](screenshots/time_table.png)
